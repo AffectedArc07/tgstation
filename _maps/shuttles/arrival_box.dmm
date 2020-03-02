@@ -141,9 +141,6 @@
 /turf/open/floor/mineral/titanium/blue,
 /area/shuttle/arrival)
 "A" = (
-/obj/structure/shuttle/engine/propulsion/burst/left{
-	dir = 4
-	},
 /turf/open/floor/plating/airless,
 /area/shuttle/arrival)
 "S" = (
