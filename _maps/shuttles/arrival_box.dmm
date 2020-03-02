@@ -97,9 +97,6 @@
 /turf/open/floor/plating/airless,
 /area/shuttle/arrival)
 "t" = (
-/obj/machinery/door/airlock/titanium{
-	name = "Arrivals Shuttle Airlock"
-	},
 /turf/open/floor/mineral/titanium,
 /area/shuttle/arrival)
 "u" = (
