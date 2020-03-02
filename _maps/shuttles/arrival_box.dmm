@@ -12,12 +12,10 @@
 /turf/open/floor/plating,
 /area/shuttle/arrival)
 "d" = (
-/obj/effect/spawner/structure/window/shuttle,
 /turf/open/floor/plating,
 /area/shuttle/arrival)
 "e" = (
 /obj/structure/table,
-/obj/item/storage/firstaid/regular,
 /turf/open/floor/mineral/titanium/blue,
 /area/shuttle/arrival)
 "f" = (
