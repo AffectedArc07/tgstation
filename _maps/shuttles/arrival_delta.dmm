@@ -20,9 +20,6 @@
 /area/shuttle/arrival)
 "e" = (
 /obj/structure/window/reinforced,
-/obj/structure/shuttle/engine/heater{
-	dir = 1
-	},
 /obj/effect/turf_decal/stripes/line{
 	dir = 1
 	},
